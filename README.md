@@ -39,4 +39,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## Want to learn more?
 
-Check Astroäs [documentation](https://docs.astro.build)
+Check Astro [documentation](https://docs.astro.build)
