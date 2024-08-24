@@ -1,13 +1,13 @@
-# Astro & Tailwind CSS Starter Kit
+# Txsoura
 
-## Template Integrations
+## Integrations
 - @astrojs/tailwind - https://docs.astro.build/en/guides/integrations-guide/tailwind/
 - @astrojs/sitemap - https://docs.astro.build/en/guides/integrations-guide/sitemap/
 
 
-## Template Structure
+## Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+Inside the project, you'll see the following folders and files:
 
 ```
 /
@@ -39,4 +39,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## Want to learn more?
 
-Feel free to check Astroäs [documentation](https://docs.astro.build)
+Check Astroäs [documentation](https://docs.astro.build)
