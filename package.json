@@ -16,6 +16,7 @@
     "astro": "^4.0.4"
   },
   "dependencies": {
+    "@astrojs/vercel": "^7.8.0",
     "@astrolib/seo": "^1.0.0-beta.5"
   }
 }
